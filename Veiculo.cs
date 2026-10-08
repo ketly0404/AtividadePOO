@@ -14,7 +14,7 @@ public abstract class Veiculo
 
     public void Ligar()
     {
-        Console.WriteLine($"{Modelo} Ligado com sucesso");
+        Console.WriteLine($"{Modelo} ligado com sucesso");
     }
 
     public virtual void Acelerar()
